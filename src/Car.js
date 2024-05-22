@@ -1,7 +1,7 @@
 function Car()
 {
     return(<form>
-        <input type = "text"></input>
+        <input type = "text" placeholder="Enter the name"></input>
         </form>
     )
 }
